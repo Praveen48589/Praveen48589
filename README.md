@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveen48589&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+  <img src=https://visitor-badge.laobi.icu/badge?page_id=Praveeb48589.Praveeb48589&style=for-the-badge />
   &nbsp;
   <a href="https://github.com/Praveeb48589?tab=followers">
     <img src="https://img.shields.io/github/followers/Praveen48589?style=for-the-badge&logo=github&color=d2a8ff&labelColor=0d1117&label=FOLLOWERS" />
