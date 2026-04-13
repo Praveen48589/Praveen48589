@@ -50,16 +50,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [docker-compose-lab](https://github.com/Praveen48589/docker-compose-lab) | Multi-service Docker setups |
-| [k8s-manifests](https://github.com/Praveen48589/k8s-manifests) | Kubernetes deployment YAMLs |
-| [cicd-pipeline-demo](https://github.com/Praveen48589/cicd-pipeline-demo) | Jenkins / GitLab CI pipelines |
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
 </p>
